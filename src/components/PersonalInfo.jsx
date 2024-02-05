@@ -16,7 +16,7 @@ const PersonalInfo = () => {
                 </div>
             </div>
             <div className=" px-4 py-2 flex">
-                <h1 className=" text-primary-content font-semibold ">Birthdate : </h1>
+                <h1 className=" text-primary-content font-semibold ">Birth-Date : </h1>
                 <p className="px-1 text-gray-600">17/10/2002</p>
             </div>
             <div className=" px-4 py-2 flex ">

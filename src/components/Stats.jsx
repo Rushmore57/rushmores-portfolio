@@ -2,7 +2,7 @@ import profile from "../assets/customer1.jpg"
 const Stats = (props) => {
     return (
       <div data-theme = "dim" className=" lg:my-2 sm:my-16 max-sm:my-16 lg:mb-16 p-16 w-full flex justify-center">
-        <div className="stats shadow">
+        <div className="stats shadow max-sm:shadow-white">
   
   <div className="stat">
     <div className="stat-figure text-primary">
@@ -31,7 +31,7 @@ const Stats = (props) => {
       </div>
     </div>
     <div className="stat-value">100%</div>
-    <div className="stat-title">projects done</div>
+    <div className="stat-title">Projects done</div>
     <div className="stat-desc text-primary">No pendding projects</div>
   </div>
   

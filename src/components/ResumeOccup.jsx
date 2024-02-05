@@ -9,7 +9,7 @@ const ResumeOccup = () => {
                             <h1 className="p-2 font-bold text-2xl text-primary-content ">Occupation</h1>
                             <h1 className=" text-lg text-primary font-bold p-2">2022-Present</h1>
                             <p className="px-2 text-gray-600 text-sm">UNILUS(University of Lusaka) Student</p>
-                            <p className="px-2 py-6 text-gray-600 text-sm">Bsc.Information systems and tech </p>
+                            <p className="px-2 py-6 text-gray-600 text-sm">Bsc.Information systems and technology </p>
                             <hr className="my-2 border-t border-gray-400"/>
                         </div>
                     </div>

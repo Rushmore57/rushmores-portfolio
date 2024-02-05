@@ -7,11 +7,11 @@ const EducationComp = () => {
                         <h1 className="p-4 font-bold text-2xl text-primary-content">Education</h1>
                         <h1 className=" text-lg text-primary font-bold p-4">2022-2023</h1>
                         <p className="px-4 text-gray-600 text-sm">
-                            FullStack software development courese at PLP(Power learn Project) Afica.
+                            FullStack software development courese at PLP(Power learn Project) Africa.
                         </p>
                         <p className="p-4 text-gray-600 text-sm">
                             This Course introduced me to different modules
-                            including Dart with flutter, HTMl, CSS and javaScript  
+                            including Dart with flutter, HTMl, CSS and JavaScript  
                         </p>
                         <hr className="my-2 border-t border-gray-400"/>
                         <h1 className=" text-lg text-primary font-bold p-4">2022-Present</h1>

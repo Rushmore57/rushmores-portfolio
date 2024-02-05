@@ -1,4 +1,4 @@
-import IntroCom from "./introCom";
+import IntroCom from "./IntroCom";
 import PersonalInfo from "./PersonalInfo";
 import Expertise from "./Expertise";
 const Description = () => {

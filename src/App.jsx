@@ -19,17 +19,6 @@ const App =() => {
             <Services/>
             <HireMeSection/>
             <Footer/>
-            {/* <Skills/>
-            <Skills/>
-            <Skills/>
-            <Skills/>
-            <Skills/>
-            <Skills/>
-            <Skills/>
-            <Skills/>
-            <Skills/>
-            <Skills/>
-            <Skills/> */}
         </main>
 
     )
